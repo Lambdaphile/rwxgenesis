@@ -55,9 +55,6 @@
      <summary>Moar info</summary>
      
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwxgenesis&show_icons=true&theme=great-gatsby)](https://github.com/rwxgenesis/github-readme-stats)
-
-
-
 </details>
 <!--
 **rwxgenesis/rwxgenesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
