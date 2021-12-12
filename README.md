@@ -2,7 +2,7 @@
 <img
      height="150"
      src="https://64.media.tumblr.com/14f296b2d81f9a2b9e191d82128de36d/tumblr_inline_pj8gz5hoXz1ro5idi_500.gifv"
-     alt="gif with funny random cat say thank you." />
+     alt="gif with a person 24/7 programming" />
 </div>
 
 <p align="center">
